@@ -1,3 +1,7 @@
+//Viviana Katherine Vásquez Fonseca
+//Grupo 1 Desarrollo de Aplicaciones híbridas Nivel 1
+//PROYECTO FINAL
+
 import 'package:flutter/material.dart';
 
 void main() {
